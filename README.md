@@ -1,5 +1,7 @@
 # SVG Grid Canvas
 
+**🌐 [Live Demo](https://exzenter.github.io/svgridHero/)**
+
 An interactive canvas application that displays a grid of SVG symbols that rotate when you hover over them. Built with vanilla JavaScript and HTML5 Canvas.
 
 ## Features
